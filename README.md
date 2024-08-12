@@ -7,7 +7,7 @@
 <body>
   <h1>ArvoreBinaria</h1>
 
-  <img src="AvoreBinariaExemplo.png" alt="ImagemArvore">
+  <img src="ArvoreBinariaExemplo.png" alt="ImagemArvore">
 
   <h2>Descrição do Projeto</h2>
   <p>Nesse projeto foi feita a implementação do códigoo de remoção.</p>
